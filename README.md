@@ -1,9 +1,9 @@
 #Autores:#
-Braulio Pareja Manzanares
-Carlos Campos Fe
-Juan Francisco García Pereira
-Luis Miguel Páez Molina
-Jose Antonio Muñoz Fuentes
+*Braulio Pareja Manzanares
+*Carlos Campos Fe
+*Juan Francisco García Pereira
+*Luis Miguel Páez Molina
+*Jose Antonio Muñoz Fuentes
 
 #Introducción:#
 Hemos realizado un programa que consiste en compartir una carpeta entre un servidor y varios
